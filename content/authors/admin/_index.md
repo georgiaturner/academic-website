@@ -18,11 +18,11 @@ role: PhD student in Social Media and Mental Health
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of Cambridge
-    url: https://www.stanford.edu/
+  - name: MRC Cognition and Brain Sciences Unit, University of Cambridge
+    url: https://www.mrc-cbu.cam.ac.uk
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include cognitive-computational modelling, health data science, and the effects of technology on adolescent mental health.
 
 # Interests to show in About widget
 interests:
