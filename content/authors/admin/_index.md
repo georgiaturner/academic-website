@@ -26,9 +26,9 @@ bio: My research interests include cognitive-computational modelling, health dat
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Cognitive-computational modelling
+  - Health data science
+  - Effects of technology on adolescent mental health
 
 # Education to show in About widget
 education:
@@ -80,5 +80,5 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Georgia Turner is a PhD student at the MRC Cognition and Brain Sciences Unit, University of Cambridge. She is interested in understanding the effects of technology use on mental health, through a cognitive lens. To do this, she uses quantitative methods from cognitive neuroscience and psychology, including cognitive-computational modelling, and analysis of large, longitudinal datasets. She is also Editor of the Cambridge Journal of Science and Policy (www.cjsp.org.uk).
 {style="text-align: justify;"}
